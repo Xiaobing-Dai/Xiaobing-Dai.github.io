@@ -8,86 +8,86 @@
     - name: Languages
       value: Chinese, English, German
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD Candidate
-#       institution: Technical University of Munich, Munich, Germany
-#       year: 2022 - now
-#       description:
-#         - Chair of Information-oriented Control
-#         - Supervised by <a href='https://www.ce.cit.tum.de/en/itr/hirche/'> Prof. Dr.-Ing. Sandra Hirche </a>
-#         - title: Research direction
-#           contents:
-#             - Machine learning, Gaussian process, learning-based Control
-#             - Networked control system, in-network computation, multi-agent system
-#     - title: Master of Science
-#       institution: Technical University of Munich, Munich, Germany
-#       year: 2019 - 2021
-#       description:
-#         - M.Sc. in Mechatronics and Robotics
-#         - Chair of Materials Handling, Material Flow, Logistics
-#         - Supervised by <a href='https://www.mec.ed.tum.de/en/fml/ueber-den-lehrstuhl/mitarbeitende/prof-dr-ing-johannes-fottner/'> Prof. Dr.-Ing. Johannes Fottner </a> and <a href='https://www.mec.ed.tum.de/en/fml/ueber-den-lehrstuhl/mitarbeitende/lingchong-gao/'> Lingchong Gao </a>
-#         - title: Research direction
-#           contents:
-#             - Rigid-flexible dynamics modeling, multi-body dynamics, optimal control
-#     - title: Master of Science
-#       institution: Technical University of Munich, Munich, Germany
-#       year: 2018 - 2021
-#       description:
-#         - M.Sc. in Mechanical Engineering
-#         - Chair of Materials Handling, Material Flow, Logistics
-#         - Supervised by <a href='https://www.mec.ed.tum.de/en/fml/ueber-den-lehrstuhl/mitarbeitende/prof-dr-ing-johannes-fottner/'> Prof. Dr.-Ing. Johannes Fottner </a> and Siciliano, Giulia
-#         - title: Research direction
-#           contents:
-#             - Automated warehouse, automated guided vehicle (AGV), routing strategy
-#     - title: Bechalor of Science
-#       institution: Tongji University, Shanghai, China
-#       year: 2013 - 2018
-#       description:
-#         - B.Sc. in Mechanical Design, Manufacturing and its Automation
-#         - Chair of Development Methods and Product Reliability (LEP), Chinese-German University College (CDHK)
-#         - Supervised by <a href='https://cdhk.tongji.edu.cn/cdhkDE/26985/list.htm'> Prof. Dr.-Ing. Song Lin </a>
-#         - title: Research direction
-#           contents:
-#             - Mechatronics, kinematics analysis and design
-#     - title: Minor Degree
-#       institution: Tongji University, Shanghai, China
-#       year: 2014 - 2016
-#       description:
-#         - Civil Engineering
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Candidate
+      institution: Technical University of Munich, Munich, Germany
+      year: 2022 - now
+      description:
+        - Chair of Information-oriented Control
+        - Supervised by <a href='https://www.ce.cit.tum.de/en/itr/hirche/'> Prof. Dr.-Ing. Sandra Hirche </a>
+        - title: Research direction
+          contents:
+            - Machine learning, Gaussian process, learning-based Control
+            - Networked control system, in-network computation, multi-agent system
+    - title: Master of Science
+      institution: Technical University of Munich, Munich, Germany
+      year: 2019 - 2021
+      description:
+        - M.Sc. in Mechatronics and Robotics
+        - Chair of Materials Handling, Material Flow, Logistics
+        - Supervised by <a href='https://www.mec.ed.tum.de/en/fml/ueber-den-lehrstuhl/mitarbeitende/prof-dr-ing-johannes-fottner/'> Prof. Dr.-Ing. Johannes Fottner </a> and <a href='https://www.mec.ed.tum.de/en/fml/ueber-den-lehrstuhl/mitarbeitende/lingchong-gao/'> Lingchong Gao </a>
+        - title: Research direction
+          contents:
+            - Rigid-flexible dynamics modeling, multi-body dynamics, optimal control
+    - title: Master of Science
+      institution: Technical University of Munich, Munich, Germany
+      year: 2018 - 2021
+      description:
+        - M.Sc. in Mechanical Engineering
+        - Chair of Materials Handling, Material Flow, Logistics
+        - Supervised by <a href='https://www.mec.ed.tum.de/en/fml/ueber-den-lehrstuhl/mitarbeitende/prof-dr-ing-johannes-fottner/'> Prof. Dr.-Ing. Johannes Fottner </a> and Siciliano, Giulia
+        - title: Research direction
+          contents:
+            - Automated warehouse, automated guided vehicle (AGV), routing strategy
+    - title: Bechalor of Science
+      institution: Tongji University, Shanghai, China
+      year: 2013 - 2018
+      description:
+        - B.Sc. in Mechanical Design, Manufacturing and its Automation
+        - Chair of Development Methods and Product Reliability (LEP), Chinese-German University College (CDHK)
+        - Supervised by <a href='https://cdhk.tongji.edu.cn/cdhkDE/26985/list.htm'> Prof. Dr.-Ing. Song Lin </a>
+        - title: Research direction
+          contents:
+            - Mechatronics, kinematics analysis and design
+    - title: Minor Degree
+      institution: Tongji University, Shanghai, China
+      year: 2014 - 2016
+      description:
+        - Civil Engineering
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Research Assistant
-#       institution: Technical University of Munich, Munich, Germany
-#       year: 2022 - now
-#       description:
-#         - Chair of Information-oriented Control
-#     - title: Student Research Assistant
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 2020 - 2022
-#       description:
-#         - Chair of Materials Handling, Material Flow, Logistics
-#         - title: Research direction
-#           contents:
-#             - Modeling and Simulation of Rigid-Flexible hybrid Mechanism based on Multi-Body Dynamics
-#             - Deep Reinforcement Learning for Complex Mechanical Systems
-#             - Optimal Trajectory Search for under-actuated Systems considering Obstacle Avoidance
-#             - Co-simulation and control of hydraulic-mechanism systems
-#     - title: Mechanical Engineering Intern
-#       institution: Kohler Co. K&B Asia Pacific NPD Center, Shanghai, China
-#       year: 2018 - 2018
-#     - title: Engineering Intern
-#       institution: Shanghai Airport City Terminal, Shanghai, China
-#       year: 2017 - 2018
-#     - title: Intern
-#       institution: Shanghai Cable Works Group Co. Ltd., Shanghai, China
-#       year: 2017 - 2017
-#     - title: Summer Intern
-#       institution: SAIC VOLKSWAGEN, Shanghai, China
-#       year: 2016 - 2016
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Technical University of Munich, Munich, Germany
+      year: 2022 - now
+      description:
+        - Chair of Information-oriented Control
+    - title: Student Research Assistant
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 2020 - 2022
+      description:
+        - Chair of Materials Handling, Material Flow, Logistics
+        - title: Research direction
+          contents:
+            - Modeling and Simulation of Rigid-Flexible hybrid Mechanism based on Multi-Body Dynamics
+            - Deep Reinforcement Learning for Complex Mechanical Systems
+            - Optimal Trajectory Search for under-actuated Systems considering Obstacle Avoidance
+            - Co-simulation and control of hydraulic-mechanism systems
+    - title: Mechanical Engineering Intern
+      institution: Kohler Co. K&B Asia Pacific NPD Center, Shanghai, China
+      year: 2018 - 2018
+    - title: Engineering Intern
+      institution: Shanghai Airport City Terminal, Shanghai, China
+      year: 2017 - 2018
+    - title: Intern
+      institution: Shanghai Cable Works Group Co. Ltd., Shanghai, China
+      year: 2017 - 2017
+    - title: Summer Intern
+      institution: SAIC VOLKSWAGEN, Shanghai, China
+      year: 2016 - 2016
 
 # - title: Honors and Awards
 #   type: time_table
