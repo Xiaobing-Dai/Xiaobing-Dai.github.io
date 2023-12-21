@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>S4522</p>
+    <p>4th floor, S4522</p>
     <p>Barer Straße 21, 4th floor,</p>
     <p>80333 Munich, Germany</p>
 
