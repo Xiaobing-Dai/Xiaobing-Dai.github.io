@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>4th floor, S4522</p>
-    <p>Barer Straße 21, 4th floor,</p>
+    <p>Barer Straße 21,</p>
     <p>80333 Munich, Germany</p>
 
 news: true  # includes a list of news items
