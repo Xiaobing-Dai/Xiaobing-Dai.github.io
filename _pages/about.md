@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <a href='https://www.ce.cit.tum.de/en/itr/dai/'>Research Assistant</a>, Chair of Information-oriented Control (ITR), Technical University of Munich (TUM) #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
