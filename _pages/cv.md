@@ -1,7 +1,7 @@
 ---
-layout: Curriculum Vitae
-permalink: /Curriculum Vitae/
-title: cv
+layout: CV # Curriculum Vitae
+permalink: /cv/
+title: Curriculum Vitae
 nav: true
 nav_order: 4
 cv_pdf: example_pdf.pdf
