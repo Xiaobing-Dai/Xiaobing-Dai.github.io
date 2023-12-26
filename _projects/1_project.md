@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BMBF Research Hub 6G-Life
-description: <a href='https://6g-life.de/'>https://6g-life.de/</a>
+title:  6G-life
+description: BMBF Research Hub <a href='https://6g-life.de/'>https://6g-life.de/</a>
 img: assets/img/6g-life.jpg
 importance: 1
 category: work
@@ -9,7 +9,7 @@ related_publications: dai2023can, yin2023learning, wan2023semi, dai2023fast
 ---
 6G-life is a BMBF-funded research hub, which will drive cutting-edge research for 6G communication networks with a focus on human-machine collaboration. 6G-life provides new approaches for sustainability, security, resilience and latency and will sustainably strengthen the economy and thus digital sovereignty in Germany.
 
-- title: General Information
+## General Information
 
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
