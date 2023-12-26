@@ -1,5 +1,5 @@
 ---
-layout: CV # Curriculum Vitae
+layout: cv # Curriculum Vitae
 permalink: /cv/
 title: Curriculum Vitae
 nav: true
